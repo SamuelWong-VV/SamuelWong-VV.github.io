@@ -2,15 +2,21 @@
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台（广电）
 https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台（香港）
-https://epg.pw/stream/ba009d94229ed40a5d9289178463fba7aa31fb0622f8ab2d66c01147828743ab.ctv
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台（香港）
 https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.ctv
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
-#EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://live.fanmingming.com/tv/有线新闻台.png" group-title="大湾区",有线新闻
-https://epg.pw/stream/4c65fc12a950810e9f068c55b2abf43cf7937762e9c5d4d44381205743c731bf.ctv
-#EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://live.fanmingming.com/tv/有线新闻台.png" group-title="大湾区",有线新闻
-https://epg.pw/stream/1b440a21b089797aecfd8328b5f587036dbeb394a97b3baaaca595ca6692ef93.m3u8
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
+https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
+https://epg.pw/stream/1d57a34778340406c923ddde53b9bbfd4903d711783cf2d6eda414ce79d59f07.ctv
+#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
+https://epg.pw/stream/cf9a086284373e6083058ffee13a822e2e193f5e19d3ff25b6e90062e4109c89.ctv
+#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="大湾区",无线财经
+https://epg.pw/stream/cf9a086284373e6083058ffee13a822e2e193f5e19d3ff25b6e90062e4109c89.ctv
+#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="大湾区",无线财经
+https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
+#EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="大湾区",无线财经
+https://epg.pw/stream/4cfbd8042c72a22081ceec0c87e7bb7ded78a5ea32bb6f709e5375a7304b8d1c.ctv
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="大湾区",大湾区卫视
 http://php.jdshipin.com:8880/chudian.php?id=nfws
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="大湾区",广东珠江
