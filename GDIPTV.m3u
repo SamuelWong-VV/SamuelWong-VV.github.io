@@ -13,14 +13,6 @@ http://live.cooltv.top/tv/tvb.php?id=0
 https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="大湾区",大湾区卫视
 http://php.jdshipin.com:8880/chudian.php?id=nfws
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="http://192.168.6.3/tv/TVlogo/img/Guangdong9.png" group-title="🍓-广东",广东珠江
-http://172.16.149.44:9090/live/1437.m3u8
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="http://192.168.6.3/tv/TVlogo/img/Guangdong5.png" group-title="🍓-广东",广东体育
-http://172.16.149.44:9090/live/1413.m3u8
-#EXTINF:-1 tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="http://192.168.6.3/tv/TVlogo/img/Guangdong7.png" group-title="🍓-广东",广东经济科教
-http://172.16.149.44:9090/live/GDjingjikejiaoHD_7000.m3u8
-#EXTINF:-1 tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="http://192.168.6.3/tv/TVlogo/img/Guangdong1.png" group-title="🍓-广东",广东新闻
-http://172.16.149.176:9090/live/1454.m3u8
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="大湾区",广东珠江
 http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="大湾区",广东体育
