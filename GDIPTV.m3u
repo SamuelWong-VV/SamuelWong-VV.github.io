@@ -19,7 +19,7 @@ http://proxy.dfkj.live/alitv.php?u=min&id=6
 http://proxy.dfkj.live/alitv.php?u=min&id=3
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="大湾区",NOW新闻
 http://proxy.dfkj.live/alitv.php?u=min&id=15
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/hongkongkai.png" group-title="大湾区",香港开电视
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/hongkongkai.png" group-title="大湾区",HOYTV
 http://proxy.dfkj.live/alitv.php?u=min&id=17
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="大湾区",无线财体资讯
 http://proxy.dfkj.live/alitv.php?u=min&id=7
