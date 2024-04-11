@@ -4,7 +4,7 @@ https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台（香港）
 https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.ctv
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台（香港）
-p3p://108.181.32.169:53321/6533f6f8000f2ebd2d03af9d53e46544
+http://proxy.dfkj.live/alitv.php?u=min&id=8
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="大湾区",J2
 http://proxy.dfkj.live/alitv.php?u=min&id=11
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="大湾区",J2（多声道）
@@ -17,7 +17,7 @@ https://epg.pw/stream/e0aab9aab1e920e6b8a58cf554cb894167d14600cc796be0ba30a2ef58
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
 http://proxy.dfkj.live/alitv.php?u=min&id=6
-#EXTINF:-1 tvg-id="有线新闻" tvg-name="有线新闻" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="大湾区",有线新闻
+#EXTINF:-1 tvg-id="HOY TV 資訊台" tvg-name="HOY TV 資訊台" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="大湾区",有线新闻
 http://proxy.dfkj.live/alitv.php?u=min&id=3
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="大湾区",NOW新闻
 http://proxy.dfkj.live/alitv.php?u=min&id=15
