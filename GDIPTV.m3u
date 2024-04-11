@@ -27,6 +27,8 @@ http://proxy.dfkj.live/alitv.php?u=min&id=17
 http://proxy.dfkj.live/alitv.php?u=min&id=18
 #EXTINF:-1 tvg-id="无线财经" tvg-name="无线财经" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="大湾区",无线财体资讯
 http://proxy.dfkj.live/alitv.php?u=min&id=7
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://live.fanmingming.com/tv/香港国际财经台.png" group-title="大湾区",HOY 国际财经台
+http://proxy.dfkj.live/alitv.php?u=min&id=16
 #EXTINF:-1 tvg-id="港台電視 31" tvg-name="港台電視 31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="大湾区",港台电视31
 http://proxy.dfkj.live/alitv.php?u=min&id=19
 #EXTINF:-1 tvg-id="港台電視 32" tvg-name="港台電視 32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="大湾区",港台电视32
