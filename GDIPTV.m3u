@@ -2,37 +2,13 @@
 #EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台（广电）
 https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台
-http://proxy.dfkj.live/alitv.php?u=min&id=8
-#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台（多声道）
 https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.ctv
-#EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="大湾区",J2
-http://proxy.dfkj.live/alitv.php?u=min&id=11
-#EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="大湾区",J2（多声道）
+#EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="大湾区",TVB J2
 https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="大湾区",ViuTV
-http://proxy.dfkj.live/alitv.php?u=min&id=13
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="大湾区",ViuTV（多声道）
 https://epg.pw/stream/e0aab9aab1e920e6b8a58cf554cb894167d14600cc796be0ba30a2ef58de3043.ctv
 #EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
-#EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
-http://proxy.dfkj.live/alitv.php?u=min&id=6
-#EXTINF:-1 tvg-id="HOY TV 資訊台" tvg-name="HOY TV 資訊台" tvg-logo="https://epg.112114.xyz/logo/有线新闻.png" group-title="大湾区",有线新闻
-http://proxy.dfkj.live/alitv.php?u=min&id=3
-#EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="大湾区",NOW新闻
-http://proxy.dfkj.live/alitv.php?u=min&id=15
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/hongkongkai.png" group-title="大湾区",HOYTV
-http://proxy.dfkj.live/alitv.php?u=min&id=17
-#EXTINF:-1 tvg-id="HOY TV 資訊台" tvg-name="HOY TV 資訊台" tvg-logo="https://live.fanmingming.com/tv/hongkongkai.png" group-title="大湾区",HOYTV资讯台
-http://proxy.dfkj.live/alitv.php?u=min&id=18
-#EXTINF:-1 tvg-id="Info 財經 體育 資訊台" tvg-name=“Info 財經 體育 資訊台" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="大湾区",无线财体资讯
-http://proxy.dfkj.live/alitv.php?u=min&id=7
-#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://live.fanmingming.com/tv/香港国际财经台.png" group-title="大湾区",HOY 国际财经台
-http://proxy.dfkj.live/alitv.php?u=min&id=16
-#EXTINF:-1 tvg-id="港台電視 31" tvg-name="港台電視 31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="大湾区",港台电视31
-http://proxy.dfkj.live/alitv.php?u=min&id=19
-#EXTINF:-1 tvg-id="港台電視 32" tvg-name="港台電視 32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="大湾区",港台电视32
-http://proxy.dfkj.live/alitv.php?u=min&id=20
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="大湾区",广东珠江
 http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="大湾区",广东体育
