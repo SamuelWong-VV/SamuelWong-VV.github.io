@@ -3,26 +3,12 @@
 https://iptv.hiper25.com/TVB/video.m3u8
 #EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台
 https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.ctv
-#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台
-https://live.astradamy.com/tvbfc/index.m3u8
-#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="大湾区",TVB J2
 https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
-#EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="大湾区",TVB J2
-https://j3.lhlh.app/mv.m3u8
-#EXTINF:-1 tvg-id="Info 財經 體育 資訊台" tvg-name="Info 財經 體育 資訊台" tvg-logo="https://live.fanmingming.com/tv/无线财经.png" group-title="大湾区",无线财经体育资讯台
-https://tvp22.sky4k.top/index2.php
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="大湾区",ViuTV
 https://epg.pw/stream/e0aab9aab1e920e6b8a58cf554cb894167d14600cc796be0ba30a2ef58de3043.ctv
 #EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
-#EXTINF:-1 tvg-id="有线新闻台" tvg-name“有线新闻台" tvg-logo="https://live.fanmingming.com/tv/youxianxinwen.png" group-title="大湾区",有线新闻
-https://uc6.i-cable.com/live_freedirect/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id=港台電視 31" tvg-name=港台電視 31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="大湾区",港台电视31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="港台電視 32" tvg-name="港台電視 32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="大湾区",港台电视32
-https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="大湾区",凤凰中文
 http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="大湾区",凤凰资讯
