@@ -5,8 +5,6 @@ https://iptv.hiper25.com/TVB/video.m3u8
 https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.ctv
 #EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="大湾区",TVB J2
 https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="大湾区",ViuTV
-https://epg.pw/stream/e0aab9aab1e920e6b8a58cf554cb894167d14600cc796be0ba30a2ef58de3043.ctv
 #EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻（多声道）
@@ -69,31 +67,31 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
 https://tv.cry33.com/ys4k.php?id=8k
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="大湾区",广东珠江
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="备用",广东珠江
 http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="大湾区",广东珠江
+#EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="备用",广东珠江
 https://epg.pw/stream/72a0372fa098a8e50619f1d4f1b5d3185bbd8c1e0198402d5fb8e3d08995bfac.ctv
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="大湾区",广东体育
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="备用",广东体育
 http://113.100.72.95:8899/udp/239.77.0.112:5146
-#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="大湾区",广东体育
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="备用",广东体育
 https://epg.pw/stream/e05d674500d8dcf73754cb11d4dcd8ef9e88f287888a1b71fd0766e90963db66.m3u8
-#EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="测试",TVB J2
+#EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="备用",TVB J2
 https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
-#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="测试",翡翠台
+#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区（海外）",翡翠台
 https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
-#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="测试",ViuTV
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.112114.xyz/logo/ViuTV.png" group-title="大湾区（海外）",ViuTV
 https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
-#EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="测试",无线新闻
+#EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区（海外）",无线新闻
 https://z88.ubtvfans.com/live/rx1/45/006ff8207bf75d845e70fa88925fa6e3/index.m3u8
-#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="测试",NOW新闻
+#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="大湾区（海外）",NOW新闻
 https://z88.ubtvfans.com/live/rx3/1246/9368c3093c58aa8b9de729b09b3a03e3/index.m3u8
-#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://live.fanmingming.com/tv/hkguojicaijing.png" group-title="测试",HOY国际财经台
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://live.fanmingming.com/tv/hkguojicaijing.png" group-title="大湾区（港）",HOY国际财经台
 https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/hongkongkai.png" group-title="测试",HOY TV
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/hongkongkai.png" group-title="大湾区（港）",HOY TV
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="HOY TV 資訊台" tvg-name="HOY TV 資訊台" tvg-logo="https://live.fanmingming.com/tv/hongkongkai.png" group-title="测试",HOY TV 资讯台
+#EXTINF:-1 tvg-id="HOY TV 資訊台" tvg-name="HOY TV 資訊台" tvg-logo="https://live.fanmingming.com/tv/hongkongkai.png" group-title="大湾区（港）",HOY TV 资讯台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
-#EXTINF:-1 tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻.png" group-title="测试",三立新闻
+#EXTINF:-1 tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://epg.112114.xyz/logo/三立新闻.png" group-title="大湾区（海外）",三立新闻
 https://z88.ubtvfans.com/live/rx1/2794/b079f12a6a87edef4ef0c9eb18f67584/index.m3u8
-#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="测试",tvbs新闻
+#EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="大湾区（海外）",tvbs新闻
 https://z88.ubtvfans.com/live/rx5/2736/be2d52910873cb20d510f4f1ef0804ba/index.m3u8
