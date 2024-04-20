@@ -15,7 +15,7 @@ https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2
 https://epg.pw/stream/d39f0aecde22a7758dfbbe493218d318780a321925f2c403ce34fb10f056cf14.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="大湾区",tvbs新闻
 https://epg.pw/stream/3b03cc3526a567aa659a19056497b9e0b4ea1d3419f7eafcfab73b77b7c51332.m3u8
-#EXTINF:-1 tvg-id="三立新闻台" tvg-name="三立新闻台" tvg-logo="https://live.fanmingming.com/tv/SETNews.png" group-title="大湾区",三立新闻
+#EXTINF:-1 tvg-id="三立i新闻台" tvg-name="三立i新闻台" tvg-logo="https://live.fanmingming.com/tv/SETINews.png" group-title="大湾区",三立i新闻
 https://epg.pw/stream/ae362af69eda8cee8e1789bd9fa32cd22b00032d40e277ce429803df204b7452.m3u8
 #EXTINF:-1 tvg-id="Info 財經 體育 資訊台" tvg-name="Info 財經 體育 資訊台" tvg-logo="https://live.fanmingming.com/tv/无线财经台.png" group-title="大湾区",无线财经体育资讯
 https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv
