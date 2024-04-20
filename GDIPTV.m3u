@@ -21,8 +21,10 @@ http://113.64.145.91:8081/hls/38/index.m3u8
 http://113.118.13.196:808/hls/83/index.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="大湾区",大湾区卫视
 https://epg.pw/stream/ae49e0e485c66e5672bb6fdf3c2c8df5912f3f5c68036ede175c8b5ac5305c3b.ctv
+http://103.45.68.47:6800/gy/gy_yzPw/触电.php?pk=1197
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="大湾区",广东体育
 http://113.118.13.196:808/hls/2/index.m3u8
+http://103.45.68.47:6800/gy/gy_yzPw/触电.php?pk=1184
 #EXTINF:-1 tvg-id="东莞新闻" tvg-name="东莞新闻" tvg-logo="https://live.fanmingming.com/tv/东莞新闻综合.png" group-title="大湾区",东莞新闻综合
 http://php.jdshipin.com:8880/0769.php?id=xwzh
 #EXTINF:-1 tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png" group-title="大湾区",东莞生活资讯
