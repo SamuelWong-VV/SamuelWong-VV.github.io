@@ -1,6 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台
 https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.ctv
+http://23.26.147.237/6699.php?id=n613eea43
 #EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/J2.png" group-title="大湾区",TVB J2
 https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="大湾区",ViuTV
