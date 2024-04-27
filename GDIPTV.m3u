@@ -1,6 +1,10 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="大湾区",翡翠台（故障）
 https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.ctv
+#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="大湾区",翡翠台
+http://?s=ouhau&id=653e4c02000ea0440c8c63fd3e5d709d
+#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="大湾区",翡翠台
+http://?s=ouhau&id=653e4c6d000965ef0c8e049f4be34103
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="大湾区",明珠台
 https://epg.pw/stream/4b6c809c8f12c14f840b1a00024562de2a134fe653509cc76ff6782f881a05d1.ctv
 #EXTINF:-1 tvg-id="TVB+" tvg-name="TVB+" tvg-logo="https://live.fanmingming.com/tv/TVB+.png" group-title="大湾区",TVB Plus
