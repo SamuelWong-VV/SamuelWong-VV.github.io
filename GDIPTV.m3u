@@ -1,17 +1,17 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/TVB翡翠台.png" group-title="大湾区",翡翠台
 https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.ctv
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="大湾区",明珠台
+#EXTINF:-1 tvg-id="Pearl 明珠台" tvg-name="Pearl 明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="大湾区",明珠台
 https://epg.pw/stream/4b6c809c8f12c14f840b1a00024562de2a134fe653509cc76ff6782f881a05d1.ctv
-#EXTINF:-1 tvg-id="TVB+" tvg-name="TVB+" tvg-logo="https://live.fanmingming.com/tv/TVB+.png" group-title="大湾区",TVB Plus
+#EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/TVB+.png" group-title="大湾区",TVB Plus
 https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="大湾区",ViuTV
 https://epg.pw/stream/e4d66fd4c29cf74a40b5d3bb9743f71e4409147a50bb971428057839a054fd3a.ctv
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/hongkongkai.png" group-title="大湾区",HOY TV
 https://epg.pw/stream/4145554a7618635706dd249726b0e1141eba94401babdf76deadeb9cf884e407.ctv
-#EXTINF:-1 tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="大湾区",港台电视31
+#EXTINF:-1 tvg-id="港台電視 31" tvg-name="港台電視 31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="大湾区",港台电视31
 https://epg.pw/stream/596e4e4b87f7f1673bb0ef49fe44a93680110a13843c818ff95a9ff0024d610f.ctv
-#EXTINF:-1 tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="大湾区",港台电视32
+#EXTINF:-1 tvg-id="港台電視 32" tvg-name="港台電視 32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="大湾区",港台电视32
 https://epg.pw/stream/b8905a684bdf1d40a6937853ee11c48901bbffda24ab46530eefb688e4582dd7.ctv
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://live.fanmingming.com/tv/TVBS.png" group-title="大湾区",TVBS
 https://epg.pw/stream/69a6002a82368bd46e1d7da8a2405145bcbc5ca195f0a26b9ca4a21acdb45dd4.m3u8
