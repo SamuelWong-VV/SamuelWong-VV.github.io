@@ -6,7 +6,7 @@ https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u
 #EXTINF:-1 tvg-id="Pearl 明珠台" tvg-name="Pearl 明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="大湾区",明珠台
 https://epg.pw/stream/4b6c809c8f12c14f840b1a00024562de2a134fe653509cc76ff6782f881a05d1.ctv
 #EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/TVB+.png" group-title="大湾区",TVB Plus
-https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
+https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png" group-title="大湾区",ViuTV
 https://epg.pw/stream/e4d66fd4c29cf74a40b5d3bb9743f71e4409147a50bb971428057839a054fd3a.ctv
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/HOY1.png" group-title="大湾区",HOY TV
@@ -94,7 +94,7 @@ http://113.100.72.95:8899/udp/239.77.0.112:5146
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="备用",广东体育
 https://epg.pw/stream/e05d674500d8dcf73754cb11d4dcd8ef9e88f287888a1b71fd0766e90963db66.m3u8
 #EXTINF:-1 tvg-id="TVB+" tvg-name="TVB+" tvg-logo="https://live.fanmingming.com/tv/TVBPlus.png" group-title="备用",TVB Plus
-https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
+https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="大湾区（海外）",ViuTV
 https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
 #EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区（海外）",无线新闻
