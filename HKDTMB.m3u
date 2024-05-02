@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.hkdvb.com/epg/full.xml"
+#EXTM3U x-tvg-url="http://content.stream-link.org/epg/guide.xml"
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",翡翠台
 https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
 #EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/TVB+.png" group-title="香港",TVB Plus
