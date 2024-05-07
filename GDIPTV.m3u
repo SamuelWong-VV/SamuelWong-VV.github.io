@@ -28,7 +28,7 @@ https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150
 #EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="大湾区",台视新闻
 https://epg.pw/stream/3494a155d6e7afad40f588196589dc0504ac51f3ba233b6338181e20b7e5428b.m3u8
 #EXTINF:-1 tvg-id="三立INEWS" tvg-name="三立INEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET3.png" group-title="大湾区",三立新闻iNews
-https://epg.pw/stream/ae362af69eda8cee8e1789bd9fa32cd22b00032d40e277ce429803df204b7452.m3u8
+https://epg.pw/stream/2dd97b2a1a8287dc8a0fb65a096b2095a0bcd7e94098f8c5609eb06b81d5e80e.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="大湾区",凤凰中文
 https://epg.pw/stream/d6fe4c36d8b6dc5508574970a5b579b78b916dd3b92b5d45fb25d4eb92f48942.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="大湾区",凤凰资讯
@@ -38,7 +38,7 @@ http://113.64.145.91:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="珠江频道" tvg-name="珠江频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="大湾区",广东珠江
 https://epg.pw/stream/72a0372fa098a8e50619f1d4f1b5d3185bbd8c1e0198402d5fb8e3d08995bfac.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="大湾区",大湾区卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
+https://epg.pw/stream/e1fa4100dc5602bd3a35c54450d8a946eb726a0f637b365ce2082ccaf28bdaa8.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="大湾区",广东体育
 https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
