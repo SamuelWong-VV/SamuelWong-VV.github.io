@@ -19,6 +19,10 @@ http://samuelwongvv.serv00.net/Smartv.php?id=rhk32_twn
 http://samuelwongvv.serv00.net/Smartv.php?id=zhongshihd_twn
 #EXTINF:-1 tvg-id="民视无线台" tvg-name="民视无线台" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="大湾区",民视
 http://samuelwongvv.serv00.net/Smartv.php?id=ftvhd_taiwan
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" group-title="大湾区",TVBS
+http://samuelwongvv.serv00.net/Smartv.php?id=tvbs
+#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS2.png" group-title="大湾区",TVBS欢乐台
+http://samuelwongvv.serv00.net/Smartv.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
@@ -27,12 +31,14 @@ http://samuelwongvv.serv00.net/Smartv.php?id=inews_twn
 https://epg.pw/stream/d39f0aecde22a7758dfbbe493218d318780a321925f2c403ce34fb10f056cf14.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://live.fanmingming.com/tv/TVBS新闻.png" group-title="大湾区",TVBS新闻
 http://samuelwongvv.serv00.net/Smartv.php?id=tvbs_n
+#EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV1.png" group-title="大湾区",中视新闻
+http://samuelwongvv.serv00.net/Smartv.php?id=zhongshinews_twn
 #EXTINF:-1 tvg-id="台视新闻台" tvg-name="台视新闻台" tvg-logo="https://live.fanmingming.com/tv/台视新闻.png" group-title="大湾区",台视新闻
 https://epg.pw/stream/3494a155d6e7afad40f588196589dc0504ac51f3ba233b6338181e20b7e5428b.m3u8
 #EXTINF:-1 tvg-id="三立INEWS" tvg-name="三立INEWS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET3.png" group-title="大湾区",三立新闻iNews
 https://epg.pw/stream/2dd97b2a1a8287dc8a0fb65a096b2095a0bcd7e94098f8c5609eb06b81d5e80e.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="大湾区",凤凰中文
-https://epg.pw/stream/d6fe4c36d8b6dc5508574970a5b579b78b916dd3b92b5d45fb25d4eb92f48942.m3u8
+http://samuelwongvv.serv00.net/Smartv.php?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="大湾区",凤凰资讯
 http://113.64.145.91:8081/hls/36/index.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="大湾区",凤凰香港
