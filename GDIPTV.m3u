@@ -15,14 +15,16 @@ https://epg.pw/stream/4145554a7618635706dd249726b0e1141eba94401babdf76deadeb9cf8
 http://samuelwongvv.serv00.net/Smartv.php?id=rhk31_twn
 #EXTINF:-1 tvg-id="港台電視 32" tvg-name="港台電視 32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="大湾区",港台电视31
 http://samuelwongvv.serv00.net/Smartv.php?id=rhk32_twn
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" group-title="大湾区",TVBS
+http://samuelwongvv.serv00.net/Smartv.php?id=tvbs
+#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS2.png" group-title="大湾区",TVBS欢乐
+http://samuelwongvv.serv00.net/Smartv.php?id=tvbshuanle_twn
+#EXTINF:-1 tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/SET1.png" group-title="大湾区",三立综合
+http://samuelwongvv.serv00.net/Smartv.php?id=sanlizhonghe
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://live.fanmingming.com/tv/中视.png" group-title="大湾区",中视
 http://samuelwongvv.serv00.net/Smartv.php?id=zhongshihd_twn
 #EXTINF:-1 tvg-id="民视无线台" tvg-name="民视无线台" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="大湾区",民视
 http://samuelwongvv.serv00.net/Smartv.php?id=ftvhd_taiwan
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" group-title="大湾区",TVBS
-http://samuelwongvv.serv00.net/Smartv.php?id=tvbs
-#EXTINF:-1 tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS2.png" group-title="大湾区",TVBS欢乐台
-http://samuelwongvv.serv00.net/Smartv.php?id=tvbshuanle_twn
 #EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
 http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
