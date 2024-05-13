@@ -13,8 +13,6 @@ http://samuelwongvv.serv00.net/Smartv.php?id=j2_twn
 http://samuelwongvv.serv00.net/Smartv.php?id=viu1_twn
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/hongkongkai.png" group-title="大湾区",HOY TV
 https://epg.pw/stream/4145554a7618635706dd249726b0e1141eba94401babdf76deadeb9cf884e407.ctv
-#EXTINF:-1 tvg-id="TvN" tvg-name="TvN" tvg-logo="https://live.fanmingming.com/tv/TvN.png" group-title="大湾区",TvN
-http://samuelwongvv.serv00.net/Smartv.php?id=TVN
 #EXTINF:-1 tvg-id="港台電視 31" tvg-name="港台電視 31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="大湾区",港台电视31
 http://samuelwongvv.serv00.net/Smartv.php?id=rhk31_twn
 #EXTINF:-1 tvg-id="港台電視 32" tvg-name="港台電視 32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="大湾区",港台电视31
@@ -29,8 +27,6 @@ http://samuelwongvv.serv00.net/Smartv.php?id=sanlizhonghe
 http://samuelwongvv.serv00.net/Smartv.php?id=zhongshihd_twn
 #EXTINF:-1 tvg-id="民视无线台" tvg-name="民视无线台" tvg-logo="https://live.fanmingming.com/tv/民视.png" group-title="大湾区",民视
 http://samuelwongvv.serv00.net/Smartv.php?id=ftvhd_taiwan
-#EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
-http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区",无线新闻
 http://samuelwongvv.serv00.net/Smartv.php?id=inews_twn
 #EXTINF:-1 tvg-id="中天新闻台" tvg-name="中天新闻台" tvg-logo="https://live.fanmingming.com/tv/中天新闻台.png" group-title="大湾区",中天新闻
@@ -121,6 +117,8 @@ https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150
 https://epg.pw/stream/e4d66fd4c29cf74a40b5d3bb9743f71e4409147a50bb971428057839a054fd3a.ctv
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="大湾区（海外）",ViuTV
 https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
+#EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="备用",无线新闻
+http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="备用",无线新闻（多声道）
 https://epg.pw/stream/cf9a086284373e6083058ffee13a822e2e193f5e19d3ff25b6e90062e4109c89.ctv
 #EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区（海外）",无线新闻
