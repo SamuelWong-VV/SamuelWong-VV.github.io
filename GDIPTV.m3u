@@ -1,18 +1,20 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台
-https://samuelwongvv.serv00.net/Smartv.php?id=jade_twn
 #EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台 HD
 https://epg.pw/stream/668e856e77007183b24d51ad4f1289a57781942d4ae10827bb79a92e49e58ea0.ctv
-#EXTINF:-1 tvg-id="Astro華麗台" tvg-name="Astro華麗台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",Astro华丽台
+#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台
+https://samuelwongvv.serv00.net/Smartv.php?id=jade_twn
+#EXTINF:-1 tvg-id="华丽台" tvg-name="华丽台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",Astro华丽台
 http://samuelwongvv.serv00.net/Smartv.php?id=Wlt
 #EXTINF:-1 tvg-id="Pearl 明珠台" tvg-name="Pearl 明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="大湾区",明珠台
-https://epg.pw/stream/00a74ca4020cd952c9e1ff1f90b8f7b9be9c1da4f0a915e1e0aa7c9dfa356197.ctv
+http://samuelwongvv.serv00.net/Smartv.php?id=pearl_twn
 #EXTINF:-1 tvg-id="J2台" tvg-name="J2台" tvg-logo="https://live.fanmingming.com/tv/TVB+.png" group-title="大湾区",TVB Plus
 http://samuelwongvv.serv00.net/Smartv.php?id=j2_twn
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png" group-title="大湾区",ViuTV
 http://samuelwongvv.serv00.net/Smartv.php?id=viu1_twn
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/hongkongkai.png" group-title="大湾区",HOY TV
 https://epg.pw/stream/4145554a7618635706dd249726b0e1141eba94401babdf76deadeb9cf884e407.ctv
+#EXTINF:-1 tvg-id="TvN" tvg-name="TvN" tvg-logo="https://live.fanmingming.com/tv/TvN.png" group-title="大湾区",TvN
+http://samuelwongvv.serv00.net/Smartv.php?id=TVN
 #EXTINF:-1 tvg-id="港台電視 31" tvg-name="港台電視 31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="大湾区",港台电视31
 http://samuelwongvv.serv00.net/Smartv.php?id=rhk31_twn
 #EXTINF:-1 tvg-id="港台電視 32" tvg-name="港台電視 32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="大湾区",港台电视31
