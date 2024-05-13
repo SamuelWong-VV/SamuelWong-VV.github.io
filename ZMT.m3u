@@ -3,8 +3,8 @@
 http://samuelwongvv.serv00.net/Smartv.php?id=jade_twn
 #EXTINF:-1 tvg-id="J2" tvg-name="J2" tvg-logo="https://live.fanmingming.com/tv/TVB+.png" group-title="香港",TVB Plus
 http://samuelwongvv.serv00.net/Smartv.php?id=j2_twn
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png" group-title="香港",无线新闻
-http://samuelwongvv.serv00.net/Smartv.php?id=inews_twn
+#EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="备用",无线新闻
+http://live.cooltv.top/tv/tvb.php?id=0
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png" group-title="香港",ViuTV
 http://samuelwongvv.serv00.net/Smartv.php?id=viu1_twn
 #EXTINF:-1 tvg-id="珠江频道" tvg-name="珠江频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="大湾区",广东珠江
