@@ -11,8 +11,6 @@ http://samuelwongvv.serv00.net/Smartv.php?id=pearl_twn
 http://samuelwongvv.serv00.net/Smartv.php?id=j2_twn
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png" group-title="大湾区",ViuTV
 http://samuelwongvv.serv00.net/Smartv.php?id=viu1_twn
-#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/hongkongkai.png" group-title="大湾区",HOY TV
-https://epg.pw/stream/4145554a7618635706dd249726b0e1141eba94401babdf76deadeb9cf884e407.ctv
 #EXTINF:-1 tvg-id="港台電視 31" tvg-name="港台電視 31" tvg-logo="https://live.fanmingming.com/tv/RTHK31.png" group-title="大湾区",港台电视31
 http://samuelwongvv.serv00.net/Smartv.php?id=rhk31_twn
 #EXTINF:-1 tvg-id="港台電視 32" tvg-name="港台電視 32" tvg-logo="https://live.fanmingming.com/tv/RTHK32.png" group-title="大湾区",港台电视31
