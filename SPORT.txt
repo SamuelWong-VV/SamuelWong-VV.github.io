@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Videoland7.png" group-title="臺灣",纬来体育
+http://samuelwongvv.serv00.net/Smartv.php?id=videolandsport
+#EXTINF:-1 tvg-id="爱尔达体育1" tvg-name="爱尔达体育1" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA4.png" group-title="臺灣",爱尔达体育1
+http://samuelwongvv.serv00.net/Smartv.php?id=eltasport_twn
+#EXTINF:-1 tvg-id="爱尔达体育2" tvg-name="爱尔达体育2" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA5.png" group-title="臺灣",爱尔达体育2
+http://samuelwongvv.serv00.net/Smartv.php?id=eltasport2_twn
+#EXTINF:-1 tvg-id="爱尔达体育3" tvg-name="爱尔达体育3" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA6.png" group-title="臺灣",爱尔达体育3
+http://samuelwongvv.serv00.net/Smartv.php?id=eltasport3_twn
