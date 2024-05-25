@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台
 https://samuelwongvv.serv00.net/Smartv.php?id=jade_twn
+#EXTINF:-1 tvg-id="Jade 翡翠台" tvg-name="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",翡翠台
+http://ali.hlspull.yximgs.com/live/huanqiuhklivefhwwjpthjyjtjjjxcxbfhjjfjvhdtjdvbtvjsjxjfsjjcvbctvbfc.flv
 #EXTINF:-1 tvg-id="华丽台" tvg-name="华丽台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" group-title="大湾区",Astro华丽台
 http://samuelwongvv.serv00.net/Smartv.php?id=Wlt
 #EXTINF:-1 tvg-id="Pearl 明珠台" tvg-name="Pearl 明珠台" tvg-logo="https://live.fanmingming.com/tv/TVB明珠台.png" group-title="大湾区",明珠台
