@@ -22,3 +22,17 @@ rtmp://f13h.mine.nu/sat/tv051
 https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv.png" group-title="备用",ViuTV
 https://epg.pw/stream/e4d66fd4c29cf74a40b5d3bb9743f71e4409147a50bb971428057839a054fd3a.ctv
+#EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://live.fanmingming.com/tv/viutv.png" group-title="大湾区（海外）",ViuTV
+https://z88.ubtvfans.com/live/rx1/2334/fba30fd4af785fb0451bcccfdf475e79/index.m3u8
+#EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="备用",无线新闻（多声道）
+https://epg.pw/stream/cf9a086284373e6083058ffee13a822e2e193f5e19d3ff25b6e90062e4109c89.ctv
+#EXTINF:-1 tvg-id="News 新聞台" tvg-name="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png" group-title="大湾区（海外）",无线新闻
+https://z88.ubtvfans.com/live/rx1/45/006ff8207bf75d845e70fa88925fa6e3/index.m3u8
+#EXTINF:-1 tvg-id="NOW新闻台" tvg-name="NOW新闻台" tvg-logo="https://live.fanmingming.com/tv/NOW新闻台.png" group-title="大湾区（海外）",NOW新闻
+https://z88.ubtvfans.com/live/rx3/1246/9368c3093c58aa8b9de729b09b3a03e3/index.m3u8
+#EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://live.fanmingming.com/tv/hkguojicaijing.png" group-title="大湾区（港）",HOY国际财经台
+https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
+#EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://live.fanmingming.com/tv/hongkongkai.png" group-title="大湾区（港）",HOY TV
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+#EXTINF:-1 tvg-id="HOY TV 資訊台" tvg-name="HOY TV 資訊台" tvg-logo="https://live.fanmingming.com/tv/hongkongkai.png" group-title="大湾区（港）",HOY TV 资讯台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
