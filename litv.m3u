@@ -1,0 +1,122 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/myzzzzzz/tv/master/zzz.xml"
+
+#EXTINF:-1 tvg-id="310" tvg-name="民視台灣台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV3.png" group-title="🐳-台湾",民視台灣台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv001
+#EXTINF:-1 tvg-id="173" tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV1.png" group-title="💰-新闻财经",民視新聞台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv002
+#EXTINF:-1 tvg-id="311" tvg-name="民視第一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV2.png" group-title="🐳-台湾",民視第一台
+samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv003
+#EXTINF:-1 tvg-id="361" tvg-name="民視綜藝台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV6.png" group-title="👻-综艺",民視綜藝台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv004
+#EXTINF:-1 tvg-id="363" tvg-name="中天新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTI2.png" group-title="💰-新闻财经",中天新聞台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv009
+#EXTINF:-1 tvg-id="509" tvg-name="非凡新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Unique1.png" group-title="💰-新闻财经",非凡新聞台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv010
+#EXTINF:-1 tvg-id="336" tvg-name="影迷數位電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FANS1.png" group-title="🥤-影视",影迷數位電影台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv011
+#EXTINF:-1 tvg-id="348" tvg-name="視納華仁紀實頻道" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FANS2.png" group-title="🥤-影视",視納華仁紀實頻道
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv013
+#EXTINF:-1 tvg-id="394" tvg-name="八大精彩台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV5.png" group-title="🥤-影视",八大精彩台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv034
+#EXTINF:-1 tvg-id="393" tvg-name="八大綜藝台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GTV2.png" group-title="🐳-台湾",八大綜藝台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv039
+#EXTINF:-1 tvg-id="256" tvg-name="中視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV.png" group-title="🐳-台湾",中視
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv040
+#EXTINF:-1 tvg-id="345" tvg-name="華視" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS.png" group-title="🐳-台湾",華視
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv041
+#EXTINF:-1 tvg-id="397" tvg-name="公視戲劇" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/PTS3.png" group-title="🥤-影视",公視戲劇
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv042
+#EXTINF:-1 tvg-id="317" tvg-name="靖天卡通台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV7.png" group-title="🎒-儿童",靖天卡通台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv044
+#EXTINF:-1 tvg-id="326" tvg-name="靖洋戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jy2.png" group-title="🥤-影视",靖洋戲劇台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv045
+#EXTINF:-1 tvg-id="321" tvg-name="靖天綜合台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV1.png" group-title="🐳-台湾",靖天綜合台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv046
+#EXTINF:-1 tvg-id="319" tvg-name="靖天日本台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV6.png" group-title="🐳-台湾",靖天日本台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv047
+#EXTINF:-1 tvg-id="350" tvg-name="采昌影劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/caichang.png" group-title="🥤-影视",采昌影劇台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv049
+#EXTINF:-1 tvg-id="284" tvg-name="台視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV2.png" group-title="💰-新闻财经",台視新聞台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv051
+#EXTINF:-1 tvg-id="347" tvg-name="華視新聞資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTS1.png" group-title="💰-新闻财经",華視新聞資訊台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv052
+#EXTINF:-1 tvg-id="232" tvg-name="NiceTV靖天歡樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV4.png" group-title="👻-综艺",Nice TV 靖天歡樂台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv054
+#EXTINF:-1 tvg-id="320" tvg-name="靖天映畫台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV3.png" group-title="🥤-影视",靖天映畫台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv055
+#EXTINF:-1 tvg-id="286" tvg-name="台視財經台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV3.png" group-title="💰-新闻财经",台視財經台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv056
+#EXTINF:-1 tvg-id="325" tvg-name="靖洋卡通NiceBingo" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/jy1.png" group-title="🎒-儿童",靖洋卡通 Nice Bingo
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv057
+#EXTINF:-1 tvg-id="318" tvg-name="靖天戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV8.png" group-title="🥤-影视",靖天戲劇台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv058
+#EXTINF:-1 tvg-id="324" tvg-name="靖天電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV9.png" group-title="🥤-影视",靖天電影台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv061
+#EXTINF:-1 tvg-id="322" tvg-name="靖天育樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV5.png" group-title="👻-综艺",靖天育樂台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv062
+#EXTINF:-1 tvg-id="222" tvg-name="KLT-靖天國際台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV10.png" group-title="👻-综艺",KLT-靖天國際台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv063
+#EXTINF:-1 tvg-id="259" tvg-name="中視菁采台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV3.png" group-title="🐳-台湾",中視菁采台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv064
+#EXTINF:-1 tvg-id="323" tvg-name="靖天資訊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/GoldenTV2.png" group-title="👻-综艺",靖天資訊台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv065
+#EXTINF:-1 tvg-id="515" tvg-name="台視HD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TTV.png" group-title="🐳-台湾",台視
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv066
+#EXTINF:-1 tvg-id="245" tvg-name="TVBS精采台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS3.png" group-title="🐳-台湾",TVBS精采台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv067
+#EXTINF:-1 tvg-id="362" tvg-name="TVBS歡樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS2.png" group-title="👻-综艺",TVBS 歡樂台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv068
+#EXTINF:-1 tvg-id="366" tvg-name="愛爾達娛樂台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA3.png" group-title="🐳-台湾",愛爾達娛樂台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv070
+#EXTINF:-1 tvg-id="174" tvg-name="TVBS新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="💰-新闻财经",TVBS 新聞台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv072
+#EXTINF:-1 tvg-id="175" tvg-name="TVBSHD" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" group-title="💰-新闻财经",TVBS
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv073
+#EXTINF:-1 tvg-id="257" tvg-name="中視新聞" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV1.png" group-title="💰-新闻财经",中視新聞
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv074
+#EXTINF:-1 tvg-id="258" tvg-name="中視經典台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/CTV2.png" group-title="🐳-台湾",中視經典台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv080
+#EXTINF:-1 tvg-id="126" tvg-name="HOY國際財經台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/xggjcj.png" group-title="🇭🇰-香港",HOY 國際財經台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv104
+#EXTINF:-1 tvg-id="168" tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC6.png" group-title="💰-新闻财经",東森新聞台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv152
+#EXTINF:-1 tvg-id="307" tvg-name="東森財經新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/EBC7.png" group-title="💰-新闻财经",東森財經新聞台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv153
+#EXTINF:-1 tvg-id="173" tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV1.png" group-title="💰-新闻财经",民視新聞台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv155
+#EXTINF:-1 tvg-id="310" tvg-name="民視台灣台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV3.png" group-title="🐳-台湾",民視台灣台
+https://samuelwongvv.serv00.net/litv.php?id=4gtv-4gtv156
+#EXTINF:-1 tvg-id="387" tvg-name="VOA美國之音" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/VOATV.png" group-title="💰-新闻财经",VOA 美國之音
+https://samuelwongvv.serv00.net/litv.php?id=litv-ftv03
+#EXTINF:-1 tvg-id="357" tvg-name="民視旅遊台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV5.png" group-title="🐳-台湾",民視旅遊台
+https://samuelwongvv.serv00.net/litv.php?id=litv-ftv07
+#EXTINF:-1 tvg-id="360" tvg-name="民視影劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/FTV4.png" group-title="🥤-影视",民視影劇台
+https://samuelwongvv.serv00.net/litv.php?id=litv-ftv09
+#EXTINF:-1 tvg-id="514" tvg-name="龍華卡通台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV9.png" group-title="🎒-儿童",龍華卡通台
+https://samuelwongvv.serv00.net/litv.php?id=litv-longturn01
+#EXTINF:-1 tvg-id="334" tvg-name="龍華電影台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV1.png" group-title="🥤-影视",龍華電影台
+https://samuelwongvv.serv00.net/litv.php?id=litv-longturn03
+#EXTINF:-1 tvg-id="506" tvg-name="博斯魅力台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast6.png" group-title="🥇-运动",博斯魅力台
+https://samuelwongvv.serv00.net/litv.php?id=litv-longturn04
+#EXTINF:-1 tvg-id="275" tvg-name="博斯運動一台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast1.png" group-title="🥇-运动",博斯運動一台
+https://samuelwongvv.serv00.net/litv.php?id=litv-longturn07
+#EXTINF:-1 tvg-id="276" tvg-name="博斯運動二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast2.png" group-title="🥇-运动",博斯運動二台
+https://samuelwongvv.serv00.net/litv.php?id=litv-longturn08
+#EXTINF:-1 tvg-id="274" tvg-name="博斯網球台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast5.png" group-title="🥇-运动",博斯網球台
+https://samuelwongvv.serv00.net/litv.php?id=litv-longturn09
+#EXTINF:-1 tvg-id="272" tvg-name="博斯無限二台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/sportcast8.png" group-title="🥇-运动",博斯無限二台
+https://samuelwongvv.serv00.net/litv.php?id=litv-longturn10
+#EXTINF:-1 tvg-id="365" tvg-name="龍華日韓台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV5.png" group-title="🥤-影视",龍華日韓台
+https://samuelwongvv.serv00.net/litv.php?id=litv-longturn11
+#EXTINF:-1 tvg-id="513" tvg-name="龍華偶像台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV6.png" group-title="🥤-影视",龍華偶像台
+https://samuelwongvv.serv00.net/litv.php?id=litv-longturn12
+#EXTINF:-1 tvg-id="291" tvg-name="寰宇新聞台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global2.png" group-title="💰-新闻财经",寰宇新聞台
+https://samuelwongvv.serv00.net/litv.php?id=litv-longturn14
+#EXTINF:-1 tvg-id="292" tvg-name="寰宇新聞台灣台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Global3.png" group-title="💰-新闻财经",寰宇台灣台
+https://samuelwongvv.serv00.net/litv.php?id=litv-longturn15
+#EXTINF:-1 tvg-id="331" tvg-name="龍華戲劇台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV4.png" group-title="🥤-影视",龍華戲劇台
+https://samuelwongvv.serv00.net/litv.php?id=litv-longturn18
+#EXTINF:-1 tvg-id="202" tvg-name="ELTV生活英語台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/ELTA7.png" group-title="🎒-儿童",ELTV生活英語台
+https://samuelwongvv.serv00.net/litv.php?id=litv-longturn20
+#EXTINF:-1 tvg-id="508" tvg-name="龍華經典台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/LTV7.png" group-title="🥤-影视",龍華經典台
+https://samuelwongvv.serv00.net/litv.php?id=litv-longturn21
