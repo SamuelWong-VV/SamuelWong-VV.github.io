@@ -54,6 +54,10 @@ http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://samuelwongvv.top/fandai.php?url=aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD1jZGU2MmUxMDU2ZWIzNjE1ZGFiN2EzZWZkODNmNWViNCZrZXk9Yjg2ODVmYmVjZjc3MmU2NDE1NDYzMDgyOWNmMzMwYTM=
 http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=69a9997a2b9635a3845065f47f220fdb&ext_start_limit=1722232202&int_start_limit=1722232202&ts=1722232202&c=823066551
+#EXTINF:-1 tvg-id="珠江频道" tvg-name="珠江频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="大湾区",广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-15.m3u8
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="大湾区",大湾区卫视
+https://stream1.freetv.fun/da-wan-qu-wei-shi-2.ctv
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="大湾区",广东体育
 https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
 #EXTINF:-1 tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" tvg-logo="https://live.fanmingming.com/tv/东莞新闻综合.png" group-title="大湾区",东莞新闻综合
