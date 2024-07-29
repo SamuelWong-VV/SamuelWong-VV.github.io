@@ -3,57 +3,57 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://samuelwongvv.top/fandai.php?url=aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD0wOTU4YjljNjU3NjIyYzQ2NWE2MjA1ZWIyMjUyYjhlZCZrZXk9MmQyZmQ3YjE2NjFiMWUyOGRlMzgyNjg4NzJiNDg0ODA=
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=14aa18c23a7279530da90251fc4b98d9&ext_start_limit=1722232197&int_start_limit=1722232197&ts=1722232197&c=823066551
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=35185ba1538cc6180ea9b7df11ef2526&ext_start_limit=1722250564&int_start_limit=1722250564&ts=1722250564&c=823066551
 #EXTINF:-1 tvg-id="JUHD" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true",翡翠台 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://samuelwongvv.top/fandai.php?url=aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD0yYzA0NWY1YWRiMjZkMzkxY2M0MWNkMDFmMDA0MTZmYSZrZXk9ZmMxNDY3NzFhOWIwOTZmYzRjYjU3ZmZlNzY5ODYxYmU=
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=076f0548d3bb9e353088861519aa7fb4&ext_start_limit=1722232197&int_start_limit=1722232197&ts=1722232197&c=823066551
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=dc86108d11a64004614feaf5d1e963d5&ext_start_limit=1722250564&int_start_limit=1722250564&ts=1722250564&c=823066551
 #EXTINF:-1 tvg-id="B" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB3.png",TVBplus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://samuelwongvv.top/fandai.php?url=aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD01NjYwM2I2NWZhMWQ3MzgzYjZlZjBlNzNiOWFlNjlmYSZrZXk9NWQ5ZDhlOTU3ZDJlNDVkODE4OWE1NmZlODY2NWFhYWE=
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=b3abe89c2f5c7574d0ac3922c39167f2&ext_start_limit=1722232197&int_start_limit=1722232197&ts=1722232197&c=823066551
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=35d6fe5a37b17d1d6cdcd709bbef3ed4&ext_start_limit=1722250565&int_start_limit=1722250565&ts=1722250565&c=823066551
 #EXTINF:-1 tvg-id="P" tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/TVB1.png?raw=true",明珠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://samuelwongvv.top/fandai.php?url=aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD1lMDRmYWNkZDkxMzU0ZGVlZTMxOGM2NzQ5OTNiNzRjMSZrZXk9OGY5N2E2MjlkZTY4MGFmOTNhNjUyYzMxMDJiNjU4OTg=
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=765f39caa2f190f93f8c133d8e76fb7c&ext_start_limit=1722232198&int_start_limit=1722232198&ts=1722232198&c=823066551
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=3517eeb410cf0cf0b876b7e8a8ace6b2&ext_start_limit=1722250565&int_start_limit=1722250565&ts=1722250565&c=823066551
 #EXTINF:-1 tvg-id="CWIN" tvg-logo="https://raw.githubusercontent.com/sparkssssssssss/epg/main/logo/黄金翡翠台.png",Super Free
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://samuelwongvv.top/fandai.php?url=aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD0wNzM3Yjc1ZWU4OTA2YzAwYmI3YmI4ZjY2NmRhNzJhMCZrZXk9MTVmNTE1NDU4Y2RiNTEwNzQ1MmY5NDNhMTExY2JlODk=
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=ee31a4c05efc54ea43c1a860a80e2e7a&ext_start_limit=1722232198&int_start_limit=1722232198&ts=1722232198&c=823066551
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=5d80f0e0db88488e74ee04d8f913ab06&ext_start_limit=1722250566&int_start_limit=1722250566&ts=1722250566&c=823066551
 #EXTINF:-1 tvg-id="TVG" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E9%BB%84%E9%87%91%E7%BF%A1%E7%BF%A0%E5%8F%B0.png?raw=true",黄金翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://samuelwongvv.top/fandai.php?url=aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD04ZmUzZGIxYTI0OTY5Njk0YWUzNDQ3ZjI2NDczZWI5ZiZrZXk9NWNjZTk1ODMzNTY4YjllMzIyZjE3YzYxMzg3YjMwNmY=
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=de95ac56dfa1dcb2a532610927a9d50b&ext_start_limit=1722232199&int_start_limit=1722232199&ts=1722232199&c=823066551
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=7f92bd12ab778364f70ff87c32d9044b&ext_start_limit=1722250566&int_start_limit=1722250566&ts=1722250566&c=823066551
 #EXTINF:-1 tvg-id="C" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB4.png",无线新闻台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://samuelwongvv.top/fandai.php?url=aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD05MGEwYmQwMWQ5ZjZjYmIzOTgzOWNkOWI2OGZjMjZiYyZrZXk9NTE1NDZkMWYyYWYwNTQ3ZjBlOTYxOTk1YjYwYTMyYTE=
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=c6761d3afc99636df4cfcd46040e3f0f&ext_start_limit=1722232199&int_start_limit=1722232199&ts=1722232199&c=823066551
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=ac1b11db18f8353bbc8b06809b70c813&ext_start_limit=1722250567&int_start_limit=1722250567&ts=1722250567&c=823066551
 #EXTINF:-1 tvg-id="CTVE" tvg-logo="https://github.com/sparkssssssssss/epg/blob/main/logo/%E5%A8%B1%E4%B9%90%E6%96%B0%E9%97%BB%E5%8F%B0.png?raw=true",娱乐新闻台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://samuelwongvv.top/fandai.php?url=aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD02ZmEwZTQ3NzUwYjVlMmZiNmFkZjliOWEwYWM0MzFhMyZrZXk9YTI1NjIyMGU2YzJiZWFhODJmNGNhNWZiYTRlYzFmOTU=
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=eb3a85c678db03947c626213e1c72f51&ext_start_limit=1722232200&int_start_limit=1722232200&ts=1722232200&c=823066551
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=ae008c2b8f785c598dc6987a4850af3a&ext_start_limit=1722250567&int_start_limit=1722250567&ts=1722250567&c=823066551
 #EXTINF:-1 tvg-id="PCC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix1.png",凤凰卫视中文台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://samuelwongvv.top/fandai.php?url=aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD03YmNhMDc3MWJhOTIwNWVkYjVkNDY3Y2UyZmRmMDE2MiZrZXk9ZWIxOWM3ZTNjZWEzNGRjOTA2NDVlMzNmOTgzYjE1YWI=
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=19d18e7863be7391840fe07e7a5ef517&ext_start_limit=1722232201&int_start_limit=1722232201&ts=1722232201&c=823066551
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=3b3b5cee527fa44fd84d2e21baeab19b&ext_start_limit=1722250567&int_start_limit=1722250567&ts=1722250567&c=823066551
 #EXTINF:-1 tvg-id="PIN" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix2.png",凤凰卫视资讯台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://samuelwongvv.top/fandai.php?url=aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD04M2Y3ZDMxM2FkZmMwYTViOTc4YjllZmEwNDIxY2UyNSZrZXk9ZWNkYzgwNjVhNDYyODdiZmI1OGU5Zjc2NWU0ZWVjMmI=
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=3195166b8c8d185ae88c7dd646cef673&ext_start_limit=1722232201&int_start_limit=1722232201&ts=1722232201&c=823066551
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=09220972290c9ef4a45c023a753f2a24&ext_start_limit=1722250568&int_start_limit=1722250568&ts=1722250568&c=823066551
 #EXTINF:-1 tvg-id="PHK" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix3.png",凤凰卫视香港台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://samuelwongvv.top/fandai.php?url=aHR0cHM6Ly92ZXJjZWwtcGhwLWNsZWFya2V5LWhleC1iYXNlNjQtanNvbi52ZXJjZWwuYXBwL2FwaS9yZXN1bHRzLnBocD9rZXlpZD1jZGU2MmUxMDU2ZWIzNjE1ZGFiN2EzZWZkODNmNWViNCZrZXk9Yjg2ODVmYmVjZjc3MmU2NDE1NDYzMDgyOWNmMzMwYTM=
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=69a9997a2b9635a3845065f47f220fdb&ext_start_limit=1722232202&int_start_limit=1722232202&ts=1722232202&c=823066551
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=ed95fdf86c9a536205fb747a134f7354&ext_start_limit=1722250568&int_start_limit=1722250568&ts=1722250568&c=823066551
 #EXTINF:-1 tvg-id="珠江频道" tvg-name="珠江频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="大湾区",广东珠江
 https://stream1.freetv.fun/yan-dong-zhu-jiang-15.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="大湾区",大湾区卫视
