@@ -1,47 +1,9 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
-#EXTINF:1 group-title="香港" tvg-id="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" ,翡翠台
+#EXTINF:3 group-title="香港" tvg-id="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
 http://209.141.52.237:32771/stream/pixman/null/master.m3u8?u=samuelwongvv&p=ad62b2f68f68d21dbf83e145f8c7205ee4e127954ef4005a7c92e9384be0d1c9
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV 1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视", CCTV 1
-http://209.141.52.237:5080/ysp/cctv1
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV 2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视", CCTV 2
-http://209.141.52.237:5080/ysp/cctv2
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV 3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视", CCTV 3
-http://209.141.52.237:5080/ysp/cctv3
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV 4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视", CCTV 4
-http://209.141.52.237:5080/ysp/cctv4
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV 5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视", CCTV 5
-http://209.141.52.237:5080/ysp/cctv5
-#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV 5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视", CCTV 5+
-http://209.141.52.237:5080/ysp/cctv5p
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV 6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视", CCTV 6
-http://209.141.52.237:5080/ysp/cctv6
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV 7" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="央视", CCTV 7
-http://209.141.52.237:5080/ysp/cctv7
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV 8" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视", CCTV 8
-http://209.141.52.237:5080/ysp/cctv8
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV 9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="央视", CCTV 9
-http://209.141.52.237:5080/ysp/cctv9
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV 10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视", CCTV 10
-http://209.141.52.237:5080/ysp/cctv10
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV 11" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视", CCTV 11
-http://209.141.52.237:5080/ysp/cctv11
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV 12" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视", CCTV 12
-http://209.141.52.237:5080/ysp/cctv12
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV 13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视", CCTV 13
-http://209.141.52.237:5080/ysp/cctv13
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV 14" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视", CCTV 14
-http://209.141.52.237:5080/ysp/cctv14
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV 15" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视", CCTV 15
-http://209.141.52.237:5080/ysp/cctv15
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV 16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视", CCTV 16
-http://209.141.52.237:5080/ysp/cctv16
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV 17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视", CCTV 17
-http://209.141.52.237:5080/ysp/cctv17
-#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV 4K" tvg-logo="https://assets.livednow.com/logo/CCTV-4K.png" group-title="央视", CCTV 4K
-http://209.141.52.237:5080/ysp/cctv4k
-#EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV 8K" tvg-logo="https://assets.livednow.com/logo/CCTV-8K.png" group-title="央视", CCTV 8K
-http://209.141.52.237:5080/ysp/cctv8k
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://assets.livednow.com/logo/广东卫视.png" group-title="卫视", 广东卫视
-http://209.141.52.237:5080/ysp/guangdong
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://assets.livednow.com/logo/深圳卫视.png" group-title="卫视", 深圳卫视
-http://209.141.52.237:5080/ysp/shenzhen
+#EXTINF:4 group-title="香港" tvg-id="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台 4K
+http://209.141.52.237:32771/stream/pixman/4k/master.m3u8?u=samuelwongvv&p=ad62b2f68f68d21dbf83e145f8c7205ee4e127954ef4005a7c92e9384be0d1c9
+#EXTINF:1 group-title="香港" tvg-id="J2台" tvg-logo="https://live.fanmingming.com/tv/TVB+.png",TVB Plus
+http://209.141.52.237:32771/stream/pixman/tvbplus/master.m3u8?u=samuelwongvv&p=ad62b2f68f68d21dbf83e145f8c7205ee4e127954ef4005a7c92e9384be0d1c9
+#EXTINF:2 group-title="香港" tvg-id="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",無線新聞台
+http://209.141.52.237:32771/stream/pixman/null-1/master.m3u8?u=samuelwongvv&p=ad62b2f68f68d21dbf83e145f8c7205ee4e127954ef4005a7c92e9384be0d1c9
