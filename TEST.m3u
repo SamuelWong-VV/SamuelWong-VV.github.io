@@ -1,0 +1,4 @@
+#EXTM3U x-tvg-url="https://live.hkdvb.com/epg/full.xml"
+
+#EXTINF:1 group-title="香港" tvg-id="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png" provider="pixman" provider-logo="" provider-type="iptv",翡翠台
+http://209.141.52.237:32771/stream/pixman/null/master.m3u8?u=samuelwongvv&p=ad62b2f68f68d21dbf83e145f8c7205ee4e127954ef4005a7c92e9384be0d1c9
