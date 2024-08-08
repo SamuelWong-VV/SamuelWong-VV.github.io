@@ -1,7 +1,67 @@
-#EXTM3U x-tvg-url="https://live.hkdvb.com/epg/full.xml"
-#EXTINF:3 group-title="香港" tvg-id="Jade 翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
+#EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
+#EXTINF:3 group-title="香港" tvg-id="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台 4K
+http://209.141.52.237:32771/stream/pixman/4k/master.m3u8?u=samuelwongvv&p=ad62b2f68f68d21dbf83e145f8c7205ee4e127954ef4005a7c92e9384be0d1c9
+#EXTINF:3 group-title="香港" tvg-id="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
 http://209.141.52.237:32771/stream/pixman/null/master.m3u8?u=samuelwongvv&p=ad62b2f68f68d21dbf83e145f8c7205ee4e127954ef4005a7c92e9384be0d1c9
-#EXTINF:1 group-title="香港" tvg-id="J2台" tvg-logo="https://live.fanmingming.com/tv/TVB+.png",TVB Plus
+#EXTINF:1 group-title="香港" tvg-id="J2" tvg-logo="https://live.fanmingming.com/tv/TVB+.png",TVB Plus
 http://209.141.52.237:32771/stream/pixman/tvbplus/master.m3u8?u=samuelwongvv&p=ad62b2f68f68d21dbf83e145f8c7205ee4e127954ef4005a7c92e9384be0d1c9
-#EXTINF:2 group-title="香港" tvg-id="News 新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",無線新聞台
+#EXTINF:2 group-title="香港" tvg-id="無線新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",無線新聞台
 http://209.141.52.237:32771/stream/pixman/null-1/master.m3u8?u=samuelwongvv&p=ad62b2f68f68d21dbf83e145f8c7205ee4e127954ef4005a7c92e9384be0d1c9
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="大湾区",凤凰中文
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="大湾区",凤凰资讯
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="大湾区",凤凰香港
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+#EXTINF:-1 tvg-id="珠江频道" tvg-name="珠江频道" tvg-logo="https://live.fanmingming.com/tv/广东珠江.png" group-title="大湾区",广东珠江
+https://stream1.freetv.fun/yan-dong-zhu-jiang-15.m3u8
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="大湾区",大湾区卫视
+https://stream1.freetv.fun/da-wan-qu-wei-shi-2.ctv
+#EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://live.fanmingming.com/tv/广东体育.png" group-title="大湾区",广东体育
+https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+#EXTINF:-1 tvg-id="东莞新闻综合" tvg-name="东莞新闻综合" tvg-logo="https://live.fanmingming.com/tv/东莞新闻综合.png" group-title="大湾区",东莞新闻综合
+http://php.jdshipin.com:8880/0769.php?id=xwzh
+#EXTINF:-1 tvg-id="东莞生活资讯" tvg-name="东莞生活资讯" tvg-logo="https://live.fanmingming.com/tv/东莞新闻综合.png" group-title="大湾区",东莞生活资讯
+http://php.jdshipin.com:8880/0769.php?id=shzx
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://assets.livednow.com/logo/CCTV1.png" group-title="央视",CCTV-1 综合
+http://209.141.52.237:5080/ysp/cctv1
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://assets.livednow.com/logo/CCTV2.png" group-title="央视",CCTV-2 财经
+http://209.141.52.237:5080/ysp/cctv2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://assets.livednow.com/logo/CCTV3.png" group-title="央视", CCTV-3 综艺
+http://209.141.52.237:5080/ysp/cctv3
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://assets.livednow.com/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
+http://209.141.52.237:5080/ysp/cctv4
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://assets.livednow.com/logo/CCTV5.png" group-title="央视",CCTV-5 体育
+http://209.141.52.237:5080/ysp/cctv5
+#EXTINF:-1 tvg-id="CCTV5-plus" tvg-name="CCTV5+" tvg-logo="https://assets.livednow.com/logo/CCTV5-plus.png" group-title="央视",CCTV-5+ 体育赛事
+http://209.141.52.237:5080/ysp/cctv5p
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://assets.livednow.com/logo/CCTV6.png" group-title="央视",CCTV-6 电影
+http://209.141.52.237:5080/ysp/cctv6
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://assets.livednow.com/logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
+http://209.141.52.237:5080/ysp/cctv7
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://assets.livednow.com/logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
+http://209.141.52.237:5080/ysp/cctv8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://assets.livednow.com/logo/CCTV9.png" group-title="央视",CCTV-9 纪录
+http://209.141.52.237:5080/ysp/cctv9
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://assets.livednow.com/logo/CCTV10.png" group-title="央视",CCTV-10 科教
+http://209.141.52.237:5080/ysp/cctv10
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://assets.livednow.com/logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
+http://209.141.52.237:5080/ysp/cctv11
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://assets.livednow.com/logo/CCTV12.png" group-title="央视",CCTV-12 社会与法
+http://209.141.52.237:5080/ysp/cctv12
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://assets.livednow.com/logo/CCTV13.png" group-title="央视",CCTV-13 新闻
+http://209.141.52.237:5080/ysp/cctv13
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://assets.livednow.com/logo/CCTV14.png" group-title="央视",CCTV-14 少儿
+http://209.141.52.237:5080/ysp/cctv14
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://assets.livednow.com/logo/CCTV15.png" group-title="央视",CCTV-15 音乐
+http://209.141.52.237:5080/ysp/cctv15
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://assets.livednow.com/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+http://209.141.52.237:5080/ysp/cctv16
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://assets.livednow.com/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
+http://209.141.52.237:5080/ysp/cctv17
+#EXTINF:-1 tvg-id="CCTV-4K" tvg-name="CCTV4K" tvg-logo="https://assets.livednow.com/logo/CCTV-4K.png" group-title="央视",CCTV-4K 超高清
+http://209.141.52.237:5080/ysp/cctv4k
+#EXTINF:-1 tvg-id="CCTV-8K" tvg-name="CCTV8K" tvg-logo="https://assets.livednow.com/logo/CCTV-8K.png" group-title="央视",CCTV-8K 超高清
+http://209.141.52.237:5080/ysp/cctv8k
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://assets.livednow.com/logo/广东卫视.png" group-title="卫视", 广东卫视
+http://209.141.52.237:5080/ysp/guangdong
