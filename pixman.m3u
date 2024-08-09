@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://assets.livednow.com/epg.xml"
 #EXTINF:3 group-title="香港" tvg-id="翡翠台" tvg-logo="https://live.fanmingming.com/tv/翡翠台.png",翡翠台
-http://209.141.52.237:32769/stream/pixman/null/master.m3u8?u=samuelwongvv&p=ad62b2f68f68d21dbf83e145f8c7205ee4e127954ef4005a7c92e9384be0d1c9
+http://209.141.52.237:8000/stream/pixman/null/master.m3u8?u=samuelwongvv&p=ad62b2f68f68d21dbf83e145f8c7205ee4e127954ef4005a7c92e9384be0d1c9
 #EXTINF:1 group-title="香港" tvg-id="J2" tvg-logo="https://live.fanmingming.com/tv/TVB+.png",TVB Plus
-http://209.141.52.237:32769/stream/pixman/tvbplus/master.m3u8?u=samuelwongvv&p=ad62b2f68f68d21dbf83e145f8c7205ee4e127954ef4005a7c92e9384be0d1c9
+http://209.141.52.237:8000/stream/pixman/tvbplus/master.m3u8?u=samuelwongvv&p=ad62b2f68f68d21dbf83e145f8c7205ee4e127954ef4005a7c92e9384be0d1c9
 #EXTINF:2 group-title="香港" tvg-id="無線新聞台" tvg-logo="https://live.fanmingming.com/tv/无线新闻台.png",無線新聞台
 http://samuelwongvv.buzz/tvb.php?id=0&hq
 #EXTINF:-1 tvg-name="鳳凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="香港",鳳凰中文
